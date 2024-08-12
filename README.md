@@ -1,3 +1,8 @@
+<style>
+p {
+font-color=red;
+}
+</style>
 
 پیوند تست ۱
 
