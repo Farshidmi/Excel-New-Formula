@@ -1,6 +1,24 @@
 
 پیوند تست ۱
 
+یک لیست 
++ لیست یکم
++ لیست دوم
++ لیست سوم
+
+یک لیست دیگر 
++ الف
++ ب
++ ج
+
+> یک متن یادداشت ساده
+> ادامه دار
+> ادامه
+
+
+
+
+
 [خوش آمدید](فصل‌ها/خوش%20آمدید.md)
 
 
@@ -10,7 +28,15 @@
 
 متن های farsi و انگلیس با هم
 
+در داخل متن ` vlookup = ` را زدم که ببینم چی می شه.
 
+
+
+
+
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+ 
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
