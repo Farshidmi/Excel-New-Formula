@@ -18,8 +18,8 @@
 > [!TIP] هشدار
 > این یک هشدار ساده است.
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> [!IMPORTANT] | مهم و مهم 
+> مهم و مهم است.
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
